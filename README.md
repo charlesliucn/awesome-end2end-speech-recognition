@@ -4,6 +4,7 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 ## Papers
 
+### 2019
 - Dario Bertero, Onno Kampman, Pascale Fung: **Towards Universal End-to-End Affect Recognition from Multilingual Speech by ConvNets. CoRR abs/1901.06486 (2019)**
 
 - Yiming Wang, Xing Fan, I-Fan Chen, Yuzong Liu, Tongfei Chen, Björn Hoffmeister: **End-to-end Anchored Speech Recognition. CoRR abs/1902.02383 (2019)**
@@ -11,6 +12,8 @@ This repository contains a curated list of End-to-End speech recognition, includ
 - Jinxi Guo, Tara N. Sainath, Ron J. Weiss: **A spelling correction model for end-to-end speech recognition. CoRR abs/1902.07178 (2019)**
 
 - Egor Lakomkin, Mohammad-Ali Zamani, Cornelius Weber, Sven Magg, Stefan Wermter: **Incorporating End-to-End Speech Recognition Models for Sentiment Analysis. CoRR abs/1902.11245 (2019)**
+
+#### 2018
 
 - Jian Kang, Wei-Qiang Zhang, Wei-Wei Liu, Jia Liu, Michael T. Johnson: **Lattice Based Transcription Loss for End-to-End Speech Recognition. Signal Processing Systems 90(7): 1013-1023 (2018)**
 
@@ -152,6 +155,8 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Zhehuai Chen, Mahaveer Jain, Yongqiang Wang, Michael L. Seltzer, Christian Fuegen: **End-to-end contextual speech recognition using class language models and a token passing decoder. CoRR abs/1812.02142 (2018)**
 
+#### 2017
+
 - Patrick Doetsch, Mirko Hannemann, Ralf Schlüter, Hermann Ney: **Inverted Alignments for End-to-End Automatic Speech Recognition. J. Sel. Topics Signal Processing 11(8): 1265-1273 (2017)**
 
 - Tsubasa Ochiai, Shinji Watanabe, Takaaki Hori, John R. Hershey, Xiong Xiao: **Unified Architecture for Multichannel End-to-End Speech Recognition With Neural Beamforming. J. Sel. Topics Signal Processing 11(8): 1274-1288 (2017)**
@@ -232,6 +237,8 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Yingbo Zhou, Caiming Xiong, Richard Socher: **Improved Regularization Techniques for End-to-End Speech Recognition. CoRR abs/1712.07108 (2017)**
 
+#### 2016
+
 - Rahil Mahdian Toroghi: **Blind speech separation in distant speech recognition front-end processing. Saarland University, Saarbrücken, Germany 2016**
 
 - Xuyang Wang, Pengyuan Zhang, Qingwei Zhao, Jielin Pan, Yonghong Yan: **Improved End-to-End Speech Recognition Using Adaptive Per-Dimensional Learning Rate Methods. IEICE Transactions 99-D(10): 2550-2553 (2016)**
@@ -267,6 +274,8 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Zewang Zhang, Zheng Sun, Jiaqi Liu, Jingwen Chen, Zhao Huo, Xiao Zhang: **An Experimental Comparison of Deep Neural Networks for End-to-end Speech Recognition. CoRR abs/1611.07174 (2016)**
 
+#### 2015
+
 - Javier Gonzalez-Dominguez, David Eustis, Ignacio Lopez-Moreno, Andrew W. Senior, Françoise Beaufays, Pedro J. Moreno: **A Real-Time End-to-End Multilingual Speech Recognition Architecture. J. Sel. Topics Signal Processing 9(4): 749-759 (2015)**
 
 - Yajie Miao, Mohammad Gowayyed, Florian Metze: **EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding. ASRU 2015: 167-174**
@@ -279,7 +288,10 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Yajie Miao, Mohammad Gowayyed, Florian Metze: **EESEN: End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding. CoRR abs/1507.08240 (2015)**
 
+#### 2014
+
 - Alex Graves, Navdeep Jaitly: **Towards End-To-End Speech Recognition with Recurrent Neural Networks. ICML 2014: 1764-1772**
+
 - Jan Chorowski, Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio: **End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results. CoRR abs/1412.1602 (2014)**
 
 - Awni Y. Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, Andrew Y. Ng: **Deep Speech: Scaling up end-to-end speech recognition. CoRR abs/1412.5567 (2014)**
