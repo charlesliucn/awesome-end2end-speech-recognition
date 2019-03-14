@@ -2,13 +2,54 @@
 
 This repository contains a curated list of End-to-End speech recognition, including papers, codes and other materials.
 
-## Papers
+* * *
+## Table of Contents
+### [1. Papers](#Papers)
+  - [1.1 Higly Recommended Papers](#recommended)
+  - [1.2 All Paper List](#paperlist)
+	+ [1.2.1 2019](#2019)
+	+ [1.2.2 2018](#2018)
+	+ [1.2.3 2017](#2017)
+	+ [1.2.4 2016](#2016)
+	+ [1.2.5 2015](#2015)
+	+ [1.2.6 2014](#2014)
 
-### Recommended Papers
+### [2. Toolkits](#toolkits)
 
-Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end speech recognition in english and mandarin. International conference on machine learning. 2016: 173-182.** [[pdf]](http://proceedings.mlr.press/v48/amodei16.pdf)|[[code]](https://github.com/search?o=desc&q=DeepSpeech2&s=stars&type=Repositories)
+* * *
 
-### 2019
+## <a name="papers"></a> 1. Papers
+### <a name="recommended"></a> 1.1 Highly Recommended Papers
+
+- Graves A, Fernández S, Gomez F, et al. **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks. Proceedings of the 23rd international conference on Machine learning. ACM, 2006: 369-376.** [[pdf]](https://mediatum.ub.tum.de/doc/1292048/file.pdf)
+
+- Graves A, Mohamed A, Hinton G. **Speech recognition with deep recurrent neural networks. 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013: 6645-6649.** [[pdf]](https://arxiv.org/pdf/1303.5778.pdf)
+
+- Graves A, Jaitly N. **Towards end-to-end speech recognition with recurrent neural networks. International Conference on Machine Learning. 2014: 1764-1772.** [[pdf]](http://proceedings.mlr.press/v32/graves14.pdf)
+
+- Awni Y. Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, Andrew Y. Ng: **Deep Speech: Scaling up end-to-end speech recognition. CoRR abs/1412.5567 (2014)** [[pdf]](https://arxiv.org/pdf/1412.5567.pdf)[[code]](https://github.com/search?o=desc&q=DeepSpeech&s=&type=Repositories)
+
+- Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end speech recognition in english and mandarin. International conference on machine learning. 2016: 173-182.** [[pdf]](http://proceedings.mlr.press/v48/amodei16.pdf)[[code]](https://github.com/search?o=desc&q=DeepSpeech2&s=stars&type=Repositories)
+
+- Bahdanau D, Chorowski J, Serdyuk D, et al. **End-to-end attention-based large vocabulary speech recognition. 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2016: 4945-4949.** [[pdf]](https://arxiv.org/pdf/1508.04395.pdf)
+
+- Zhang Y, Chan W, Jaitly N. **Very deep convolutional networks for end-to-end speech recognition. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017: 4845-4849.** [[pdf]](https://arxiv.org/pdf/1609.06773)
+
+- Zhang Y, Pezeshki M, Brakel P, et al. **Towards end-to-end speech recognition with deep convolutional neural networks[J]. arXiv preprint arXiv:1701.02720, 2017.** [[https://arxiv.org/pdf/1701.02720]]
+
+- Kim S, Hori T, Watanabe S. **Joint CTC-attention based end-to-end speech recognition using multi-task learning. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017: 4835-4839.** [[pdf]](https://arxiv.org/pdf/1609.06773.pdf)
+
+- Hori T, Watanabe S, Zhang Y, et al. **Advances in joint CTC-attention based end-to-end speech recognition with a deep CNN encoder and RNN-LM[J]. arXiv preprint arXiv:1706.02737, 2017.** [[pdf]](https://arxiv.org/pdf/1706.02737)
+
+- Rao K, Sak H, Prabhavalkar R. **Exploring architectures, data and units for streaming end-to-end speech recognition with RNN-transducer. 2017 IEEE Automatic Speech Recognition and Understanding Workshop (ASRU). IEEE, 2017: 193-199.** [[pdf]](https://arxiv.org/pdf/1801.00841)
+
+- Chiu C C, Sainath T N, Wu Y, et al. **State-of-the-art speech recognition with sequence-to-sequence models[C]//2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018: 4774-4778.** [[pdf]](https://arxiv.org/pdf/1712.01769)
+
+- Neil Zeghidour, Nicolas Usunier, Gabriel Synnaeve, Ronan Collobert, Emmanuel Dupoux: **End-to-End Speech Recognition From the Raw Waveform. CoRR abs/1806.07098 (2018)** [[pdf]](https://arxiv.org/pdf/1806.07098)
+
+### <a name="paperlist"></a> 1.2 All Paper List
+
+#### <a name="2019"></a> 1.2.1 2019
 - Dario Bertero, Onno Kampman, Pascale Fung: **Towards Universal End-to-End Affect Recognition from Multilingual Speech by ConvNets. CoRR abs/1901.06486 (2019)**
 
 - Yiming Wang, Xing Fan, I-Fan Chen, Yuzong Liu, Tongfei Chen, Björn Hoffmeister: **End-to-end Anchored Speech Recognition. CoRR abs/1902.02383 (2019)**
@@ -17,7 +58,7 @@ Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end spee
 
 - Egor Lakomkin, Mohammad-Ali Zamani, Cornelius Weber, Sven Magg, Stefan Wermter: **Incorporating End-to-End Speech Recognition Models for Sentiment Analysis. CoRR abs/1902.11245 (2019)**
 
-#### 2018
+#### <a name="2018"></a> 1.2.2 2018
 
 - Jian Kang, Wei-Qiang Zhang, Wei-Wei Liu, Jia Liu, Michael T. Johnson: **Lattice Based Transcription Loss for End-to-End Speech Recognition. Signal Processing Systems 90(7): 1013-1023 (2018)**
 
@@ -159,7 +200,7 @@ Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end spee
 
 - Zhehuai Chen, Mahaveer Jain, Yongqiang Wang, Michael L. Seltzer, Christian Fuegen: **End-to-end contextual speech recognition using class language models and a token passing decoder. CoRR abs/1812.02142 (2018)**
 
-#### 2017
+#### <a name="2017"></a> 1.2.3 2017
 
 - Patrick Doetsch, Mirko Hannemann, Ralf Schlüter, Hermann Ney: **Inverted Alignments for End-to-End Automatic Speech Recognition. J. Sel. Topics Signal Processing 11(8): 1265-1273 (2017)**
 
@@ -225,8 +266,6 @@ Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end spee
 
 - Andros Tjandra, Sakriani Sakti, Satoshi Nakamura: **Local Monotonic Attention Mechanism for End-to-End Speech Recognition. CoRR abs/1705.08091 (2017)**
 
-- Ying Zhang, Mohammad Pezeshki, Philemon Brakel, Saizheng Zhang, César Laurent, Yoshua Bengio, Aaron C. Courville: **Towards End-to-End Speech Recognition with Deep Convolutional Neural Networks. CoRR abs/1701.02720 (2017)**
-
 - Hao Tang, Liang Lu, Lingpeng Kong, Kevin Gimpel, Karen Livescu, Chris Dyer, Noah A. Smith, Steve Renals: **End-to-End Neural Segmental Models for Speech Recognition. CoRR abs/1708.00531 (2017)**
 
 - Yonatan Belinkov, James R. Glass: **Analyzing Hidden Representations in End-to-End Automatic Speech Recognition Systems. CoRR abs/1709.04482 (2017)**
@@ -241,7 +280,7 @@ Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end spee
 
 - Yingbo Zhou, Caiming Xiong, Richard Socher: **Improved Regularization Techniques for End-to-End Speech Recognition. CoRR abs/1712.07108 (2017)**
 
-#### 2016
+#### <a name="2016"></a> 1.2.4 2016
 
 - Rahil Mahdian Toroghi: **Blind speech separation in distant speech recognition front-end processing. Saarland University, Saarbrücken, Germany 2016**
 
@@ -252,8 +291,6 @@ Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end spee
 - Liang Lu, Xingxing Zhang, Steve Renals: **On training the recurrent neural network encoder-decoder for large vocabulary end-to-end speech recognition. ICASSP 2016: 5060-5064**
 
 - George Trigeorgis, Fabien Ringeval, Raymond Brueckner, Erik Marchi, Mihalis A. Nicolaou, Björn W. Schuller, Stefanos Zafeiriou: **Adieu features? End-to-end speech emotion recognition using a deep convolutional recurrent network. ICASSP 2016: 5200-5204**
-
-- Dario Amodei, Sundaram Ananthanarayanan, Rishita Anubhai, Jingliang Bai, Eric Battenberg, Carl Case, Jared Casper, Bryan Catanzaro, Jingdong Chen, Mike Chrzanowski, Adam Coates, Greg Diamos, Erich Elsen, Jesse Engel, Linxi Fan, Christopher Fougner, Awni Y. Hannun, Billy Jun, Tony Han, Patrick LeGresley, Xiangang Li, Libby Lin, Sharan Narang, Andrew Y. Ng, Sherjil Ozair, Ryan Prenger, Sheng Qian, Jonathan Raiman, Sanjeev Satheesh, David Seetapun, Shubho Sengupta, Chong Wang, Yi Wang, Zhiqian Wang, Bo Xiao, Yan Xie, Dani Yogatama, Jun Zhan, Zhenyao Zhu: **Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin. ICML 2016: 173-182**
 
 - Takuya Higuchi, Takuya Yoshioka, Tomohiro Nakatani: **Optimization of Speech Enhancement Front-End with Speech Recognition-Level Criterion. INTERSPEECH 2016: 3808-3812**
 
@@ -278,7 +315,7 @@ Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end spee
 
 - Zewang Zhang, Zheng Sun, Jiaqi Liu, Jingwen Chen, Zhao Huo, Xiao Zhang: **An Experimental Comparison of Deep Neural Networks for End-to-end Speech Recognition. CoRR abs/1611.07174 (2016)**
 
-#### 2015
+#### <a name="2015"></a> 1.2.5 2015
 
 - Javier Gonzalez-Dominguez, David Eustis, Ignacio Lopez-Moreno, Andrew W. Senior, Françoise Beaufays, Pedro J. Moreno: **A Real-Time End-to-End Multilingual Speech Recognition Architecture. J. Sel. Topics Signal Processing 9(4): 749-759 (2015)**
 
@@ -292,10 +329,22 @@ Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end spee
 
 - Yajie Miao, Mohammad Gowayyed, Florian Metze: **EESEN: End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding. CoRR abs/1507.08240 (2015)**
 
-#### 2014
+#### <a name="2014"></a> 1.2.6 2014
 
 - Alex Graves, Navdeep Jaitly: **Towards End-To-End Speech Recognition with Recurrent Neural Networks. ICML 2014: 1764-1772**
 
 - Jan Chorowski, Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio: **End-to-end Continuous Speech Recognition using Attention-based Recurrent NN: First Results. CoRR abs/1412.1602 (2014)**
 
 - Awni Y. Hannun, Carl Case, Jared Casper, Bryan Catanzaro, Greg Diamos, Erich Elsen, Ryan Prenger, Sanjeev Satheesh, Shubho Sengupta, Adam Coates, Andrew Y. Ng: **Deep Speech: Scaling up end-to-end speech recognition. CoRR abs/1412.5567 (2014)**
+
+## <a name="toolkits"></a> 2. Toolkits
+
+- **EESEN** [[github]](https://github.com/srvk/eesen)
+	+ Paper: Miao Y, Gowayyed M, Metze F. **EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding. 2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU). IEEE, 2015: 167-174.** [[pdf]](https://arxiv.org/pdf/1507.08240)
+
+- **Wav2Letter(++)** [[website]](https://research.fb.com/downloads/wav2letter/)[[github]](https://github.com/facebookresearch/wav2letter)
+	+ Paper1: Collobert R, Puhrsch C, Synnaeve G. **Wav2letter: an end-to-end convnet-based speech recognition system[J]. arXiv preprint arXiv:1609.03193, 2016.** [[pdf]](https://arxiv.org/pdf/1609.03193.pdf)
+	+ Paper2: Pratap V, Hannun A, Xu Q, et al. **wav2letter++: The Fastest Open-source Speech Recognition System[J]. arXiv preprint arXiv:1812.07625, 2018.** [[pdf]](https://arxiv.org/pdf/1812.07625)
+
+- **espnet** [[github]](https://github.com/espnet/espnet)
+	+ Paper: Watanabe S, Hori T, Karita S, et al. **Espnet: End-to-end speech processing toolkit[J]. arXiv preprint arXiv:1804.00015, 2018.** [[pdf]](https://arxiv.org/pdf/1804.00015)
