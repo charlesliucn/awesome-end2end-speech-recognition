@@ -4,6 +4,10 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 ## Papers
 
+### Recommended Papers
+
+Amodei D, Ananthanarayanan S, Anubhai R, et al. **Deep speech 2: End-to-end speech recognition in english and mandarin. International conference on machine learning. 2016: 173-182.** [[pdf]](http://proceedings.mlr.press/v48/amodei16.pdf)|[[code]](https://github.com/search?o=desc&q=DeepSpeech2&s=stars&type=Repositories)
+
 ### 2019
 - Dario Bertero, Onno Kampman, Pascale Fung: **Towards Universal End-to-End Affect Recognition from Multilingual Speech by ConvNets. CoRR abs/1901.06486 (2019)**
 
