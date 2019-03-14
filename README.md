@@ -2,17 +2,16 @@
 
 This repository contains a curated list of End-to-End speech recognition, including papers, codes and other materials.
 
-* * *
 ## Table of Contents
 ### [1. Papers](#Papers)
   - [1.1 Higly Recommended Papers](#recommended)
   - [1.2 All Paper List](#paperlist)
-	+ [1.2.1 2019](#2019)
-	+ [1.2.2 2018](#2018)
-	+ [1.2.3 2017](#2017)
-	+ [1.2.4 2016](#2016)
-	+ [1.2.5 2015](#2015)
-	+ [1.2.6 2014](#2014)
+	+ [2019](#2019)
+	+ [2018](#2018)
+	+ [2017](#2017)
+	+ [2016](#2016)
+	+ [2015](#2015)
+	+ [2014](#2014)
 
 ### [2. Toolkits](#toolkits)
 
@@ -35,7 +34,7 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Zhang Y, Chan W, Jaitly N. **Very deep convolutional networks for end-to-end speech recognition. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017: 4845-4849.** [[pdf]](https://arxiv.org/pdf/1609.06773)
 
-- Zhang Y, Pezeshki M, Brakel P, et al. **Towards end-to-end speech recognition with deep convolutional neural networks[J]. arXiv preprint arXiv:1701.02720, 2017.** [[https://arxiv.org/pdf/1701.02720]]
+- Zhang Y, Pezeshki M, Brakel P, et al. **Towards end-to-end speech recognition with deep convolutional neural networks[J]. arXiv preprint arXiv:1701.02720, 2017.** [[pdf]](https://arxiv.org/pdf/1701.02720)
 
 - Kim S, Hori T, Watanabe S. **Joint CTC-attention based end-to-end speech recognition using multi-task learning. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017: 4835-4839.** [[pdf]](https://arxiv.org/pdf/1609.06773.pdf)
 
@@ -49,7 +48,7 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 ### <a name="paperlist"></a> 1.2 All Paper List
 
-#### <a name="2019"></a> 1.2.1 2019
+#### <a name="2019"></a> 2019
 - Dario Bertero, Onno Kampman, Pascale Fung: **Towards Universal End-to-End Affect Recognition from Multilingual Speech by ConvNets. CoRR abs/1901.06486 (2019)**
 
 - Yiming Wang, Xing Fan, I-Fan Chen, Yuzong Liu, Tongfei Chen, Björn Hoffmeister: **End-to-end Anchored Speech Recognition. CoRR abs/1902.02383 (2019)**
@@ -58,7 +57,7 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Egor Lakomkin, Mohammad-Ali Zamani, Cornelius Weber, Sven Magg, Stefan Wermter: **Incorporating End-to-End Speech Recognition Models for Sentiment Analysis. CoRR abs/1902.11245 (2019)**
 
-#### <a name="2018"></a> 1.2.2 2018
+#### <a name="2018"></a> 2018
 
 - Jian Kang, Wei-Qiang Zhang, Wei-Wei Liu, Jia Liu, Michael T. Johnson: **Lattice Based Transcription Loss for End-to-End Speech Recognition. Signal Processing Systems 90(7): 1013-1023 (2018)**
 
@@ -200,7 +199,7 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Zhehuai Chen, Mahaveer Jain, Yongqiang Wang, Michael L. Seltzer, Christian Fuegen: **End-to-end contextual speech recognition using class language models and a token passing decoder. CoRR abs/1812.02142 (2018)**
 
-#### <a name="2017"></a> 1.2.3 2017
+#### <a name="2017"></a> 2017
 
 - Patrick Doetsch, Mirko Hannemann, Ralf Schlüter, Hermann Ney: **Inverted Alignments for End-to-End Automatic Speech Recognition. J. Sel. Topics Signal Processing 11(8): 1265-1273 (2017)**
 
@@ -280,7 +279,7 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Yingbo Zhou, Caiming Xiong, Richard Socher: **Improved Regularization Techniques for End-to-End Speech Recognition. CoRR abs/1712.07108 (2017)**
 
-#### <a name="2016"></a> 1.2.4 2016
+#### <a name="2016"></a> 2016
 
 - Rahil Mahdian Toroghi: **Blind speech separation in distant speech recognition front-end processing. Saarland University, Saarbrücken, Germany 2016**
 
@@ -315,7 +314,7 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Zewang Zhang, Zheng Sun, Jiaqi Liu, Jingwen Chen, Zhao Huo, Xiao Zhang: **An Experimental Comparison of Deep Neural Networks for End-to-end Speech Recognition. CoRR abs/1611.07174 (2016)**
 
-#### <a name="2015"></a> 1.2.5 2015
+#### <a name="2015"></a> 2015
 
 - Javier Gonzalez-Dominguez, David Eustis, Ignacio Lopez-Moreno, Andrew W. Senior, Françoise Beaufays, Pedro J. Moreno: **A Real-Time End-to-End Multilingual Speech Recognition Architecture. J. Sel. Topics Signal Processing 9(4): 749-759 (2015)**
 
@@ -329,7 +328,7 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Yajie Miao, Mohammad Gowayyed, Florian Metze: **EESEN: End-to-End Speech Recognition using Deep RNN Models and WFST-based Decoding. CoRR abs/1507.08240 (2015)**
 
-#### <a name="2014"></a> 1.2.6 2014
+#### <a name="2014"></a> 2014
 
 - Alex Graves, Navdeep Jaitly: **Towards End-To-End Speech Recognition with Recurrent Neural Networks. ICML 2014: 1764-1772**
 
@@ -339,12 +338,19 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 ## <a name="toolkits"></a> 2. Toolkits
 
-- **EESEN** [[github]](https://github.com/srvk/eesen)
+- **EESEN**. [[GitHub]](https://github.com/srvk/eesen)
 	+ Paper: Miao Y, Gowayyed M, Metze F. **EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding. 2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU). IEEE, 2015: 167-174.** [[pdf]](https://arxiv.org/pdf/1507.08240)
 
-- **Wav2Letter(++)** [[website]](https://research.fb.com/downloads/wav2letter/)[[github]](https://github.com/facebookresearch/wav2letter)
+- **Wav2Letter(++)**. [[Website]](https://research.fb.com/downloads/wav2letter/)[[GitHub]](https://github.com/facebookresearch/wav2letter)
 	+ Paper1: Collobert R, Puhrsch C, Synnaeve G. **Wav2letter: an end-to-end convnet-based speech recognition system[J]. arXiv preprint arXiv:1609.03193, 2016.** [[pdf]](https://arxiv.org/pdf/1609.03193.pdf)
 	+ Paper2: Pratap V, Hannun A, Xu Q, et al. **wav2letter++: The Fastest Open-source Speech Recognition System[J]. arXiv preprint arXiv:1812.07625, 2018.** [[pdf]](https://arxiv.org/pdf/1812.07625)
 
-- **espnet** [[github]](https://github.com/espnet/espnet)
+- **espnet**. [[GitHub]](https://github.com/espnet/espnet)
 	+ Paper: Watanabe S, Hori T, Karita S, et al. **Espnet: End-to-end speech processing toolkit[J]. arXiv preprint arXiv:1804.00015, 2018.** [[pdf]](https://arxiv.org/pdf/1804.00015)
+
+- **WavNet(STT)**. [[GitHub]](https://github.com/buriburisuri/speech-to-text-wavenet)
+
+- **neural_sp**. [[GitHub]](https://github.com/hirofumi0810/neural_sp)
+
+- **Other Github Repositories**. [[Link]](https://github.com/search?q=end+to+end+speech+recognition)
+
