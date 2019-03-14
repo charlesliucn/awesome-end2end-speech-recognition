@@ -1,6 +1,6 @@
 # Awesome End-to-End Speech Recognition
-
-This repository contains a curated list of End-to-End speech recognition, including papers, codes and other materials.
+(Still Updating)
+This repository contains a curated list of End-to-End speech recognition, including papers, codes, toolkits and other materials.
 
 ## Table of Contents
 ### [1. Papers](#Papers)
