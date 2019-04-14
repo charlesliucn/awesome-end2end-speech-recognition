@@ -57,6 +57,12 @@ This repository contains a curated list of End-to-End speech recognition, includ
 
 - Egor Lakomkin, Mohammad-Ali Zamani, Cornelius Weber, Sven Magg, Stefan Wermter: **Incorporating End-to-End Speech Recognition Models for Sentiment Analysis. CoRR abs/1902.11245 (2019)**
 
+- Dimitri Palaz, Mathew Magimai-Doss, Ronan Collobert: **End-to-end acoustic modeling using convolutional neural networks for HMM-based automatic speech recognition.** Speech Communication 108: 15-32 (2019)
+
+- Chongchong Yu, Yunbing Chen, Yueqiao Li, Meng Kang, Shixuan Xu, Xueer Liu: **Cross-Language End-to-End Speech Recognition Research Based on Transfer Learning for the Low-Resource Tujia Language.** Symmetry 11(2): 179 (2019)
+
+- Yangyang Shi, Mei-Yuh Hwang, Xin Lei: **End-To-End Speech Recognition Using A High Rank LSTM-CTC Based Model.** CoRR abs/1903.05261
+
 #### <a name="2018"></a> 2018
 
 - Jian Kang, Wei-Qiang Zhang, Wei-Wei Liu, Jia Liu, Michael T. Johnson: **Lattice Based Transcription Loss for End-to-End Speech Recognition. Signal Processing Systems 90(7): 1013-1023 (2018)**
